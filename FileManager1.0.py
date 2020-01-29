@@ -30,7 +30,7 @@ def DirChoices():
 
 
 def DeleteFile(fileName):  # Function to delete the file
-    os.remove(mainDir + "/"+fileName)
+    os.remove(curDir + "/"+fileName)
     print("File was deleted")
 
 
