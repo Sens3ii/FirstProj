@@ -1,0 +1,6 @@
+a = float(input())
+b = float(input())
+c = float(input())
+p=float((a+b+c)/2)
+x = float(p*(p-a)*(p-b)*(p-c))
+print(x**0.5)
