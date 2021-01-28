@@ -1,0 +1,10 @@
+file = open("1.txt") # mode r for read, w = write, a = append
+s = file.read()
+print(s)
+s = file.read()
+print(s)
+file.seek(0)
+s = file.readline()
+print(s)
+s1 = file.readline()
+print(s1)

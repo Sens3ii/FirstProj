@@ -1,0 +1,5 @@
+t = (1,2,3,4,5)
+print(t.count(1))
+print(t.index(2))
+print(1 in t)
+print(23 in t)
