@@ -1,2 +1,2 @@
 # PP2-2020
- KBTU Labs, spring semester, python.
+KBTU Labs on Python, also MongoDB and RabbitMQ.
